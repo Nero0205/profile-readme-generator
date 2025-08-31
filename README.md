@@ -2,7 +2,7 @@
   <img src="https://profile-readme-generator.com/assets/app.png" width="900" alt="Profile Readme Generator" />
 
   <a href="https://profile-readme-generator.com">Demo</a>
-</div>
+</div>     
 
 <div align="center">
   <h1>Profile Readme Generator</h1>
