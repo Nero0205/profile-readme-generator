@@ -141,7 +141,7 @@ $ yarn dev
 - `build`: creates an optimized production build of the application;
 - `start`: starts the application in production mode at localhost:3000 (make sure to run the build first);
 - `test`: runs the tests;
-- `lint`: runs eslint in the /src directory.
+- `Eslint`: runs eslint in the /src directory.
 
 ## :memo: License ##
 
