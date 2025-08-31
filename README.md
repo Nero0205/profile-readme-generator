@@ -8,7 +8,7 @@
   <h1>Profile Readme Generator</h1>
   <h3>The best profile readme generator you will find!</h3>
 </div>
-
+        
 <p align="center">
   <a href="https://github.com/maurodesouza/profile-readme-generator/fork" target="_blank">
     <img src="https://img.shields.io/github/forks/maurodesouza/profile-readme-generator?" alt="Badge showing the total of project forks"/>
